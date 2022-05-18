@@ -1,0 +1,21 @@
+#include <iostream>
+#include <vector>
+#include <string>
+#include <map>
+#include <algorithm>
+
+using namespace std;
+
+void UpdateIfGreater(const int first, int& second) {
+    if (first > second) {
+        second = first;
+    }
+}
+
+int main() {
+    int a = 4;
+    int b = 2;
+    UpdateIfGreater(a, b);
+    cout << b;
+    return 0;
+}

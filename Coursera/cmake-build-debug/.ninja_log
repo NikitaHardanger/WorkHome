@@ -1,0 +1,16 @@
+# ninja log v5
+16	1313	6742200387092201	CMakeFiles/Coursera.dir/week_1/DivisionCoursera.cpp.obj	2df3c62df03b756a
+81	1305	6742200387033534	CMakeFiles/Coursera.dir/week_1/TestOtladka.cpp.obj	4f262afbcddd702d
+67	1334	6742200387316290	CMakeFiles/Coursera.dir/week_1/TenToBinary.cpp.obj	7b4fa43f9373b1d5
+1	1322	6742200387151853	CMakeFiles/Coursera.dir/week_1/count_sort.cpp.obj	26d07cb4fbf5416a
+107	1381	6742200388061378	CMakeFiles/Coursera.dir/week_1/Uravnenie.cpp.obj	76e97e8dceb0a032
+42	1308	6742200387017727	CMakeFiles/Coursera.dir/week_1/NOD.cpp.obj	460e133aee2de8f8
+20	1317	6742200387067202	CMakeFiles/Coursera.dir/week_1/CountPrice.cpp.obj	6922e0e0ae25f4bf
+26	1318	6742200387044046	CMakeFiles/Coursera.dir/week_1/EvenNumbers.cpp.obj	9138467a12a4ca9a
+86	1324	6742200387571144	CMakeFiles/Coursera.dir/week_1/SecondOccurrence.cpp.obj	57d31f386743667c
+53	1379	6742200388119788	CMakeFiles/Coursera.dir/week_1/MinString.cpp.obj	5e9222288469b455
+31	1495	6742200389315482	CMakeFiles/Coursera.dir/week_1/operatorFor.cpp.obj	de2fc1409190aade
+100	1597	6742200390328795	CMakeFiles/Coursera.dir/week_1/TypeReview.cpp.obj	2b3c77ad7c173bea
+94	1693	6742200391316002	CMakeFiles/Coursera.dir/week_2/Anagramms.cpp.obj	a6cd414c5776fef0
+2	292	6742200733625668	build.ninja	9119dc60f8b3d80d
+3	216	6742200736678121	Coursera.exe	a0ade2ae0d4757ab
